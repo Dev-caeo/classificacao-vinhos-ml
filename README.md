@@ -42,8 +42,8 @@ Python, pandas, scikit-learn, matplotlib, Google Colab.
 
 ## Como executar
 
-1. Abra https://colab.research.google.com e escolha Arquivo > Fazer upload de notebook.
-2. Envie o arquivo `classificacao_vinhos.ipynb`.
+1. Abra o notebook no Google Colab: https://colab.research.google.com/github/Dev-caeo/classificacao-vinhos-ml/blob/main/classificacao_vinhos.ipynb
+2. Clique em Conectar (canto superior direito) e aguarde a marca verde.
 3. Clique em Ambiente de execução > Executar tudo.
 
 ## Observação
